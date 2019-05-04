@@ -1,0 +1,9 @@
+E:\Projects\TextAnalyzer\TextAnalyzer.Core\bin\Debug\netcoreapp2.2\TextAnalyzer.Core.deps.json
+E:\Projects\TextAnalyzer\TextAnalyzer.Core\bin\Debug\netcoreapp2.2\TextAnalyzer.Core.dll
+E:\Projects\TextAnalyzer\TextAnalyzer.Core\bin\Debug\netcoreapp2.2\TextAnalyzer.Core.pdb
+E:\Projects\TextAnalyzer\TextAnalyzer.Core\obj\Debug\netcoreapp2.2\TextAnalyzer.Core.csproj.CoreCompileInputs.cache
+E:\Projects\TextAnalyzer\TextAnalyzer.Core\obj\Debug\netcoreapp2.2\TextAnalyzer.Core.AssemblyInfoInputs.cache
+E:\Projects\TextAnalyzer\TextAnalyzer.Core\obj\Debug\netcoreapp2.2\TextAnalyzer.Core.AssemblyInfo.cs
+E:\Projects\TextAnalyzer\TextAnalyzer.Core\obj\Debug\netcoreapp2.2\TextAnalyzer.Core.dll
+E:\Projects\TextAnalyzer\TextAnalyzer.Core\obj\Debug\netcoreapp2.2\TextAnalyzer.Core.pdb
+E:\Projects\TextAnalyzer\TextAnalyzer.Core\obj\Debug\netcoreapp2.2\TextAnalyzer.Core.csprojAssemblyReference.cache

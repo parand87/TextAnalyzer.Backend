@@ -1,0 +1,14 @@
+E:\Projects\TextAnalyzer\TextAnalyzer.Services\bin\Debug\netcoreapp2.2\TextAnalyzer.Services.deps.json
+E:\Projects\TextAnalyzer\TextAnalyzer.Services\bin\Debug\netcoreapp2.2\TextAnalyzer.Services.dll
+E:\Projects\TextAnalyzer\TextAnalyzer.Services\bin\Debug\netcoreapp2.2\TextAnalyzer.Services.pdb
+E:\Projects\TextAnalyzer\TextAnalyzer.Services\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+E:\Projects\TextAnalyzer\TextAnalyzer.Services\bin\Debug\netcoreapp2.2\TextAnalyzer.Core.dll
+E:\Projects\TextAnalyzer\TextAnalyzer.Services\bin\Debug\netcoreapp2.2\TextAnalyzer.Core.pdb
+E:\Projects\TextAnalyzer\TextAnalyzer.Services\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+E:\Projects\TextAnalyzer\TextAnalyzer.Services\obj\Debug\netcoreapp2.2\TextAnalyzer.Services.csprojAssemblyReference.cache
+E:\Projects\TextAnalyzer\TextAnalyzer.Services\obj\Debug\netcoreapp2.2\TextAnalyzer.Services.csproj.CoreCompileInputs.cache
+E:\Projects\TextAnalyzer\TextAnalyzer.Services\obj\Debug\netcoreapp2.2\TextAnalyzer.Services.AssemblyInfoInputs.cache
+E:\Projects\TextAnalyzer\TextAnalyzer.Services\obj\Debug\netcoreapp2.2\TextAnalyzer.Services.AssemblyInfo.cs
+E:\Projects\TextAnalyzer\TextAnalyzer.Services\obj\Debug\netcoreapp2.2\TextAnalyzer.Services.csproj.CopyComplete
+E:\Projects\TextAnalyzer\TextAnalyzer.Services\obj\Debug\netcoreapp2.2\TextAnalyzer.Services.dll
+E:\Projects\TextAnalyzer\TextAnalyzer.Services\obj\Debug\netcoreapp2.2\TextAnalyzer.Services.pdb
